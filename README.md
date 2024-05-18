@@ -1,6 +1,5 @@
 - 👋 Oi! Eu sou a Silvia Ribeiro
-- 👀 Estou buscando oportunidade para estagiar na área de Ti.
-- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+
 
 <div align="center">
     <a href="https://github.com/silviaribeiro">
